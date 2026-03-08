@@ -28,7 +28,7 @@ dependencies = [
     "plone.namedfile",
     "plone.pgcatalog",
     "plone.rest",
-    "plone.scale>=5.0.0a1",
+    "plone.scale",
     "ZODB",
     "zodb-pgjsonb>=1.1",
 ]
